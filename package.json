@@ -1,0 +1,14 @@
+{
+  "name": "testredeneural1neuronio",
+  "version": "1.0.0",
+  "description": "Primeira rede neural em js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mathjs": "^10.0.0"
+  }
+}
